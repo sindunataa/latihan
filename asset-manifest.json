@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-porto/static/css/main.e3cf24b3.css",
+    "main.js": "/my-porto/static/js/main.7dd014a5.js",
+    "static/media/ME.png": "/my-porto/static/media/ME.9884cac109977c43120e.png",
+    "index.html": "/my-porto/index.html",
+    "main.e3cf24b3.css.map": "/my-porto/static/css/main.e3cf24b3.css.map",
+    "main.7dd014a5.js.map": "/my-porto/static/js/main.7dd014a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3cf24b3.css",
+    "static/js/main.7dd014a5.js"
+  ]
+}
